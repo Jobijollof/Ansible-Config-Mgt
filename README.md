@@ -2,4 +2,8 @@
 
 Testing Ansible
 
-Testing creattion of configurattion file
+Testing creation of configuration file
+
+Refactoring Jenkins for new Ansible project
+
+
